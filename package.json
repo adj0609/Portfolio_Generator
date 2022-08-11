@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/adj0609/Portfolio_Generator/issues"
   },
-  "homepage": "https://github.com/adj0609/Portfolio_Generator#readme"
+  "homepage": "https://github.com/adj0609/Portfolio_Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
 }
